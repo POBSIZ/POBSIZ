@@ -2,8 +2,7 @@
 <h3 align="center">A passionate frontend developer from KOREA</h3>
 
 <p align="center">
-  <a href="https://github.com/POBSIZ"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/POBSIZ"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+  <a href="https://github.com/POBSIZ"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/POBSIZ?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
 
