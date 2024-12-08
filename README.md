@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/POBSIZ?pet-id=1" style="width: 100%; height: 200px;"/>
+</a>
+
 <!-- <img src="https://images.unsplash.com/photo-1510843572979-e4b9e790fdd7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1393&q=80"> -->
 
 <!-- ![DVH_ABS_RM](https://user-images.githubusercontent.com/65818008/118718646-72f69300-b862-11eb-833b-d11eaa0431c3.png)
@@ -38,7 +42,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="POBSIZ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=POBSIZ&langs_count=10&layout=compact#" /></a>
 <br/>
 <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/POBSIZ?pet-id=1" style="width: 100%; height: 200px;"/>
-</a>
