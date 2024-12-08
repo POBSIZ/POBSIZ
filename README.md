@@ -39,4 +39,6 @@
 <br/>
 <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/POBSIZ?pet-id=1" width="1000" height="120"/>
+</a>
