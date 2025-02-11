@@ -16,19 +16,6 @@
 <a href="https://pobsiz.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20blog-black?style=flat-square"/></a>
 </p>
 
-
-
-## 🔥 My contribution streak
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=POBSIZ#version3"/>
-  </a>
-</p>
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/POBSIZ?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
-
 ## 📈 Github Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
